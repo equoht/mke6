@@ -1,0 +1,13 @@
+.banner{
+    background-image: url(../../../public/banner_img.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    height: 90vh;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 30px 100px;
+}

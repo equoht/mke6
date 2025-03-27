@@ -1,0 +1,21 @@
+footer{
+    /* margin-top: 80px; */
+    background-color: #5f5b5b;
+}
+.footer_inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+.nav{
+    display: flex;
+    gap: 70px;
+}
+.nav_item{
+    color: #F5F5F5;
+    font-weight: 400;
+}
+.logo{
+    width: 50px;
+}

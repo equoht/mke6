@@ -1,0 +1,30 @@
+.catalog{
+    padding: 0 20px;
+    background-color: #F5F5F5;
+}
+.catalog_inner{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;    
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.title{
+    font-size: 40px;
+    font-weight: 500;
+}
+.text{
+    font-size: 18px;
+    font-weight: 599;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 0;
+    justify-content: space-between;
+    margin-bottom: 80px;
+
+}
