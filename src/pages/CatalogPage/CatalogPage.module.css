@@ -5,7 +5,7 @@
 .catalog_inner{
     display: flex;
     flex-direction: column;
-    gap: 40px;    
+    gap: 20px;    
 }
 .nav{
     display: flex;
@@ -27,4 +27,9 @@
     justify-content: space-between;
     margin-bottom: 80px;
 
+}
+select{
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
 }
