@@ -17,6 +17,7 @@ export default function Card(props){
                     </Link>
                 </div>
             </div>
+            <button onClick={props.addToCart}> Добавить корзину</button>
         </section>
     )
 }
